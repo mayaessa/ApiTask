@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mayaessa/ApiTask-/static/css/main.3b71cc2a.css",
+    "main.js": "/mayaessa/ApiTask-/static/js/main.2cceba2c.js",
+    "static/js/453.6b79ea19.chunk.js": "/mayaessa/ApiTask-/static/js/453.6b79ea19.chunk.js",
+    "index.html": "/mayaessa/ApiTask-/index.html",
+    "main.3b71cc2a.css.map": "/mayaessa/ApiTask-/static/css/main.3b71cc2a.css.map",
+    "main.2cceba2c.js.map": "/mayaessa/ApiTask-/static/js/main.2cceba2c.js.map",
+    "453.6b79ea19.chunk.js.map": "/mayaessa/ApiTask-/static/js/453.6b79ea19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b71cc2a.css",
+    "static/js/main.2cceba2c.js"
+  ]
+}
