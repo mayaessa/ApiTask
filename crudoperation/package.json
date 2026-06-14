@@ -2,7 +2,7 @@
   "name": "crudoperation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mayaessa.github.io/ApiTask/",
+  "homepage": "https://mayaessa.github.io/ApiTask",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
